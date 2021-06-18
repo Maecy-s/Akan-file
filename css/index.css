@@ -66,3 +66,8 @@ body {
     width: 65%;
     margin-left: 30%;
    }
+
+   legend {
+    text-align: center;
+    color: lightsalmon;
+   }
