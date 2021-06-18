@@ -1,0 +1,10 @@
+body {
+    width: 100%;
+    height: auto;
+    background-image: url("../image/art1.jpg");
+    background-size: 100% 100%;
+    font-family: cursive;
+    text-align: center;
+    color: hsl(16, 34%, 87%);
+    font-size: larger;
+}
