@@ -56,4 +56,13 @@ body {
     text-align: center;
     vertical-align: top
    }
-   
+
+   form {
+    text-align: left;
+    border-radius: 10px;
+    background-image: url("../image/img9.jpg");
+    background-size: 100% 100%;
+    padding: 20px;
+    width: 65%;
+    margin-left: 30%;
+   }
