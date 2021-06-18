@@ -94,3 +94,7 @@ input[type=submit] {
     cursor: pointer;
     
    }
+
+   .radio {
+    color: honeydew;
+}
