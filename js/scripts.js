@@ -14,3 +14,11 @@ function calculateDayValue(){
     console.log(d);
     return (Math.floor(d));
 }
+
+function getGender(){
+    var genders = document.getElementsByName("gender");
+    if (genders[0].checked == true){
+        var gender = "male;"
+    }
+    
+}
